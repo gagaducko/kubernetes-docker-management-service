@@ -17,4 +17,4 @@ EXPOSE 31001
 
 CMD ["python", "app.py"]
 
-#docker run -d -p 31001:31001 -v /var/run/docker.sock:/var/run/docker.sock -v ~/.kube/config:/app/app/config/kubeconfig --name kubernets-management kubernetes-management-service
+#docker run -d -p 31001:31001 -v /var/run/docker.sock:/var/run/docker.sock -v ~/.kube/config:/app/app/config/kubeconfig --name kubernets-management kubernetes-docker-management-service
