@@ -1,0 +1,7 @@
+docker~=5.0.3
+kubernetes~=29.0.0
+Flask~=2.0.3
+PyYAML~=6.0.1
+flask-cors~=4.0.1
+requests~=2.27.1
+apache-skywalking~=0.1.0
